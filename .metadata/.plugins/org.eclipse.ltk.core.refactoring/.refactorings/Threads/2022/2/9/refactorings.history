@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;ai.jobiak.collectionsframework&apos; to &apos;collections/src&apos;&#x0D;&#x0A;- Original project: &apos;Threads&apos;&#x0D;&#x0A;- Destination element: &apos;collections/src&apos;&#x0D;&#x0A;- Original element: &apos;Threads/src/ai.jobiak.collectionsframework&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=collections/src" element1="/src&lt;ai.jobiak.collectionsframework" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1645791657562" version="1.0"/>
+</session>

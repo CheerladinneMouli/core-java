@@ -1,0 +1,19 @@
+
+public class CreateArraychocomain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayofChoco munch = new ArrayofChoco("munch",150,10.00);
+		ArrayofChoco kitkat=new ArrayofChoco("kitkat",120,);
+		ArrayofChoco dairymilk=new ArrayofChoco("dairymilk",150.00,120,"rapper");
+		ArrayofChoco aasha=new ArrayofChoco("aasha",1.00,20,"cover");
+		ArrayofChoco milkybar=new ArrayofChoco("milkybar",10.00,100,"cover");
+		ArrayofChoco snickers=new ArrayofChoco("snickers",20.00,120,"rapper");
+		ArrayofChoco lindberg=new ArrayofChoco("lindberg",300.00,200,"paperbox");
+		ArrayofChoco fivestar=new ArrayofChoco("fivesatr",10.00,50,"fivestar");
+		ArrayofChoco belgiumbardark= new ArrayofChoco("belgiumbardark",275.00,200,"paperbox");
+		ArrayofChoco kopiko=new ArrayofChoco("kopiko",1.00,10,"cover");
+
+	}
+
+}

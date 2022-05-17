@@ -1,0 +1,40 @@
+
+public class ArrayofChoco {
+	private String choclatename;
+	private double weight;
+	private double cost;
+	public ArrayofChoco() {
+		// TODO Auto-generated constructor stub
+	}
+	public ArrayofChoco(String choclatename, double weight,double cost) {
+		super();
+		this.choclatename = choclatename;
+		this.weight = weight;
+		this.cost = cost;
+	}
+	public String getChoclatename() {
+		return choclatename;
+	}
+	public void setChoclatename(String choclatename) {
+		this.choclatename = choclatename;
+	}
+	public double getWeight() {
+		return weight;
+	}
+	public void setWeight(double weight) {
+		this.weight = weight;
+	}
+	public String getCost() {
+		return cost;
+	}
+	public void setCost(String cost) {
+		this.cost = cost;
+	}
+	@Override
+	public String toString() {
+		return "ArrayofChoco [choclatename=" + choclatename + ", weight=" + weight + ", cost="
+				+ cost + "]";
+	}
+	
+}
+

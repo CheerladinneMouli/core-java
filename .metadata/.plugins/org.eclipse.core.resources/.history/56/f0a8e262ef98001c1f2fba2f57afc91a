@@ -1,0 +1,29 @@
+package ai.jobiak.threads;
+
+import java.util.*;
+
+public class TestHashSet {
+
+	public static void main(String[] args) {
+		
+		HashSet<Course> courseSet = new HashSet<Course>();
+		Course c1 = new Course("BCL1","Computer Basics",20,500);
+		Course c2 = new Course("PGL1","Algorithms",40,2500);
+		Course c3 = new Course("AdvProgrL3","Java Basics",60.00,5000);
+		Course c4 = new Course("AdvProgrL3","Java Basics",60,5000);
+		
+		
+		courseSet.add(c1);
+		courseSet.add(c2);
+		courseSet.add(c3);
+		courseSet.add(c4);
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
